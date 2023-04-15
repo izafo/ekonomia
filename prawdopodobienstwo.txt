@@ -1,3 +1,0 @@
-zadania do obliczenia
-
-oblicz ile razy wypadnie orzeł po czterech rzutach monetą.
